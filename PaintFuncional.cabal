@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 0aa737deae9eb5d0f84064ea3e5f517703586149f571b20193bc934589a21eac
+-- hash: 8e20192dd76c48a1384085a58dffc91359496299dfb310a49a0309044e2a5db3
 
 name:           PaintFuncional
 version:        0.1.0.0
@@ -28,6 +28,7 @@ source-repository head
 library
   exposed-modules:
       Arquivos
+      ImagemPPM
       Lib
   other-modules:
       Paths_PaintFuncional
